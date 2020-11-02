@@ -15,6 +15,10 @@ Languages and styles used:
 - JQuery CDN
 
 
+Deployment:
+----------
+https://edgeledger0.netlify.app/
+
 ## Acknoledgements
 
 - [pexels.com](https://www.pexels.com/)
